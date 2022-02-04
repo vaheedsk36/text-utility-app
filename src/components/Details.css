@@ -1,0 +1,13 @@
+.badge{
+    color: white;
+    border-radius: 10px;
+    font-size: 0.75rem;
+    
+}
+
+.details-container{
+
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
